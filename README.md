@@ -1,1 +1,2 @@
 # Fleet-Electrification-Project
+Conducted within Enerjisa under the SPARK Summer Internship Program, this project focuses on transitioning a portion of the internal combustion engine vehicle fleet to electric vehicles. The study applies data preprocessing, feature engineering, and predictive modeling on operational metrics including mileage, fuel consumption, cost efficiency, and charging infrastructure availability. The objective is to identify optimal candidates for conversion, reduce operational expenses, and support corporate sustainability goals.
